@@ -7,4 +7,4 @@ TLDR: Collection of usefull presentations i've found over the years, summarized 
 - "How to setup a cti team integrated with RT" Gert-Jan Bruggink @ 2019 - SANS Purple team summit - Evolving your adversary playbooks; Incorporating red team findings
 
 # 2020
-- "must read for writing a threat report" Lenny Zeltser @ 2020 SANS CTI Summit - Hack the reader, writing effective threat reports
+- "Must read for writing a threat report" Lenny Zeltser @ 2020 SANS CTI Summit - Hack the reader, writing effective threat reports
