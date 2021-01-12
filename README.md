@@ -1,9 +1,13 @@
 # Presentations (intro)
 TLDR: Collection of usefull presentations i've found over the years, summarized in one sentence.
 
+# 2021
+- Data set for 2021 ATT&CKcon Power Hour - "ATTCK-ONOMICS - V2.xlsx" 
+- "ATT&CK-ONOMICS" - Gert-Jan @ 2020-2021 ATT&CKcon Power Hour
+
 # 2020
 - Data set for 2020 EU-ATT&CK community workshop - "ATTCK-onomics - V1.xlsx" 
-- "FIRST CTI summit - Understanding what's next; Combining red team findings and adversary playbooks" - Gert-Jan @ FIRST CTI webinar series 2020
+- "Understanding what's next; Combining red team findings and adversary playbooks" - Gert-Jan @ FIRST CTI webinar series 2020
 - "Must read for writing a threat report" Lenny Zeltser @ 2020 SANS CTI Summit - Hack the reader, writing effective threat reports
 - "Must read for writing a threat report" Christian Paredes @ 2020 - CTI Summit - Pen-to-paper and the finisher report
 
