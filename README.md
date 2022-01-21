@@ -1,9 +1,13 @@
 # Presentations (intro)
 TLDR: Collection of usefull presentations i've found over the years, summarized in one sentence.
 
+# 2022
+- "Applied forecasting" - Gert-Jan @ 2022 CTI Summit
+
 # 2021
 - Data set for 2021 ATT&CKcon Power Hour - "ATTCK-ONOMICS - V2.xlsx" 
 - "ATT&CK-ONOMICS" - Gert-Jan @ 2020-2021 ATT&CKcon Power Hour
+- "This Is What We Thought Would Happen In 2021" - Gert-Jan @ 2021 Defcon Blue Team Village
 
 # 2020
 - Data set for 2020 EU-ATT&CK community workshop - "ATTCK-onomics - V1.xlsx" 
