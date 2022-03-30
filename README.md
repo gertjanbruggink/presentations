@@ -3,6 +3,7 @@ TLDR: Collection of usefull presentations i've found over the years, summarized 
 
 # 2022
 - "Applied forecasting" - Gert-Jan @ 2022 CTI Summit
+- "Exploring the limitations of ATT&CK" - Gert-Jan @ 2022 ATT&CKCON 3.0
 
 # 2021
 - Data set for 2021 ATT&CKcon Power Hour - "ATTCK-ONOMICS - V2.xlsx" 
