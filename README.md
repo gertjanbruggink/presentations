@@ -1,9 +1,13 @@
 # Presentations (intro)
 TLDR: Collection of usefull presentations i've found over the years, summarized in one sentence.
 
+# 2023
+- "Reimagining the Intelligence Deliverable" - Gert-Jan @ 2023 CTI Summit
+
 # 2022
 - "Applied forecasting" - Gert-Jan @ 2022 CTI Summit
 - "Exploring the limitations of ATT&CK" - Gert-Jan @ 2022 ATT&CKCON 3.0
+- "The Joy of Threat Landscaping" - Gert-Jan @ 2022 FIRST CTI Summit
 
 # 2021
 - Data set for 2021 ATT&CKcon Power Hour - "ATTCK-ONOMICS - V2.xlsx" 
