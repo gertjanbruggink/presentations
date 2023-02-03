@@ -1,5 +1,5 @@
 # Presentations (intro)
-TLDR: Collection of usefull presentations i've found over the years, summarized in one sentence.
+TLDR: Collection of relevant presentations & uploads of my previous talks.
 
 # 2023
 - "Reimagining the Intelligence Deliverable" - Gert-Jan @ 2023 CTI Summit
