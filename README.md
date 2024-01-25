@@ -3,6 +3,8 @@ TLDR: Collection of relevant presentations & uploads of my previous talks.
 
 # 2023
 - "Reimagining the Intelligence Deliverable" - Gert-Jan @ 2023 CTI Summit
+- "The Joy of Threat Landscaping" - Gert-Jan @ CTI-EU
+- "Reimagining the intelligence deliverable" - Gert-Jan @ BSIDES Cheltenham
 
 # 2022
 - "Applied forecasting" - Gert-Jan @ 2022 CTI Summit
