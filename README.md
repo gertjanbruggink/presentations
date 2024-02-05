@@ -1,6 +1,9 @@
 # Presentations (intro)
 TLDR: Collection of relevant presentations & uploads of my previous talks.
 
+# 2024
+- "Cooking a high-performance cyber threat intelligence team" - Gert-Jan @ 2024 CTI Summit
+
 # 2023
 - "Reimagining the Intelligence Deliverable" - Gert-Jan @ 2023 CTI Summit
 - "The Joy of Threat Landscaping" - Gert-Jan @ CTI-EU
