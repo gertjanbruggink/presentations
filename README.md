@@ -1,6 +1,9 @@
 # Presentations (intro)
 TLDR: Collection of relevant presentations & uploads of my previous talks.
 
+# 2025
+- "Decoding Cyber Threats - A Practical Guide to using Attack Trees' - Gert-Jan Bruggink & Sherman Chu @ 2025 CTI Summit
+ 
 # 2024
 - "Cooking a high-performance cyber threat intelligence team" - Gert-Jan @ 2024 CTI Summit
 - "Decoding Cyber Threats: A practical guide to using attack trees" - Sherman Chu & Gert-Jan Bruggink @ 2024 FIRST CTI
